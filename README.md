@@ -14,6 +14,6 @@ A lovingly crafted Flask web app with a dynamic photo slider and heartfelt lette
 You can edit `HER_NAME`, `YOUR_NAME`, `ANNIVERSARY_DATE`, `LOVE_LETTER` , `REASONS` in `app.py` and your images to make it your own.
 
 # 📄 License
-This project is open-source and free to use. 
+This project was lovingly crafted by me. It's open-source and free to use You're welcome to share, remix, and build upon it — just don’t forget to spread love 💕 and give credit where it’s due.
+Made with ❤️ by thexcomrade
 
-Spread love 💕
