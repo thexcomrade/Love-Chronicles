@@ -13,4 +13,4 @@ You can edit `HER_NAME`, `YOUR_NAME`, `ANNIVERSARY_DATE`, `LOVE_LETTER` in `app.
 
 ---
 
-Made with love for ma mannuni 💕
+Made with love 💕
