@@ -1,19 +1,17 @@
-# Love-Chronicles  💖 
-A lovingly crafted Flask web app with a dynamic photo slider and heartfelt letter to celebrate our beautiful journey. Interactive features like floating hearts and a surprise button make it a meaningful and fun experience for couples.
-  It gently counts the days we've shared and unveils a collection of heartfelt surprises, each crafted with love just for you.
+# 💖 Deva & Sivya's Love Journal
 
-# Features 🌸 
-- 🎨 Beautiful and romantic design using custom fonts and pastel color themes.
-- 📸 Automatic slideshow of personal couple photos.
-- 📝 Dynamic letter/message area styled with a handwritten font.
-- ❤️ Animated beating heart next to the anniversary message.
-- 💌 List of “Reasons I Appreciate You” loaded dynamically.
-- 🎁 Surprise button that redirects to a special link (e.g., video, song, or another page).
+A sweet Flask web app to celebrate our journey since May 11, 2024.  
+It shows how many days we've been together, the reasons I love you, and a love letter — all wrapped in one beautiful surprise.
 
-# Personalization  💌 
-You can edit `HER_NAME`, `YOUR_NAME`, `ANNIVERSARY_DATE`, `LOVE_LETTER` , `REASONS` in `app.py` and your images to make it your own.
+# 🌸 Features
+- 💌 Personalized love letter  
+- 🌟 Heartfelt reasons I adore you  
+- 📆 Days since our anniversary  
+- 🎁 A surprise page just for *you*
 
-# 📄 License
-This project was lovingly crafted by me. It's open-source and free to use You're welcome to share, remix, and build upon it — just don’t forget to spread love 💕 and give credit where it’s due.
-Made with ❤️ by thexcomrade
+# 💌 Personalization
+You can edit `HER_NAME`, `YOUR_NAME`, `ANNIVERSARY_DATE`, `LOVE_LETTER` in `app.py` and your images to make it your own.
 
+---
+
+Made with love for ma mannuni 💕
