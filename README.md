@@ -1,8 +1,6 @@
 # Love-Chronicles 💖 
 
-
-A sweet Flask web app to celebrate our journey since May 11, 2024.  
-It shows how many days we've been together, the reasons I love you, and a love letter — all wrapped in one beautiful surprise.
+A personalized anniversary celebration page with a dynamic photo slider, heartfelt letter, and reasons for love. Interactive features like floating hearts and a surprise button make it a meaningful and fun experience for couples, creating a special online memory for their relationship milestone.
 
 # 🌸 Features
 - 💌 Personalized love letter  
