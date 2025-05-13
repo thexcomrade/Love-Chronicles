@@ -1,4 +1,5 @@
-# 💖 Deva & Sivya's Love Journal
+# Love-Chronicles 💖 
+
 
 A sweet Flask web app to celebrate our journey since May 11, 2024.  
 It shows how many days we've been together, the reasons I love you, and a love letter — all wrapped in one beautiful surprise.
