@@ -17,20 +17,7 @@ This is a sweet, personalized web page built using HTML, CSS, and a bit of JavaS
 
 ## 📁 Folder Structure
 
-Love-Chronicles/
-│
-├── static/
-│ ├── favicon.ico # Icon for the webpage tab
-│ ├── background.jpg # Background image (e.g., couple photo)
-│ └── photos/
-│ ├── photo1.jpg # Photos for slideshow
-│ ├── photo2.jpg
-│ └── ...
-│
-├── templates/
-│ └── anniversary.html # The main HTML page (code above)
-│
-└── app.py # Flask backend (example below)
+<pre lang="text"> ```text Love-Chronicles/ │ ├── static/ │ ├── favicon.ico # Icon for the webpage tab │ ├── background.jpg # Background image (e.g., couple photo) │ └── photos/ │ ├── photo1.jpg # Photos for slideshow │ ├── photo2.jpg │ └── ... │ ├── templates/ │ └── anniversary.html # The main HTML page (code above) │ └── app.py # Flask backend (example below) ``` </pre>
 
 ---
 
